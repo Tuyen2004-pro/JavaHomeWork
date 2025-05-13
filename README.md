@@ -1,1 +1,1 @@
-Đây là repository bài tập Java
+Bài 2 kiểm tra giữa kỳ
